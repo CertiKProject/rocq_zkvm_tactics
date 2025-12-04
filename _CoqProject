@@ -1,0 +1,23 @@
+-R . Top
+Shared.v
+Moddable.v
+CommonModel.v
+IntegerFunctions.v
+InjectivityHelper.v
+zkWasm/OpBinShiftModel.v
+zkWasm/OpBinShiftGates.v
+zkWasm/OpStoreModel.v
+zkWasm/OpStoreGates.v
+zkWasm/OpUnaryGates.v
+zkWasm/OpUnaryModel.v
+zkWasm/MTableModel.v
+zkWasm/MTableGates.v
+zkWasm/ModdableETable.v
+zkWasm/WasmiModel.v
+zkWasm/BitTableModel.v
+zkWasm/ETableModel.v
+zkWasm/Injectivity.v
+zkWasm/ImageTableModel.v
+zkWasm/JTableModel.v
+zkWasm/RTableModel.v
+
